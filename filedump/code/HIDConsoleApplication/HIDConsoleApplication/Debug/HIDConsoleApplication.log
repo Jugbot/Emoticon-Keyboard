@@ -1,0 +1,8 @@
+﻿  HIDConsoleApplication.c
+k:\keyboard\code\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(35): warning C4129: '_': unrecognized character escape sequence
+k:\keyboard\code\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(38): warning C4129: ' ': unrecognized character escape sequence
+k:\keyboard\code\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(86): warning C4090: 'function': different 'const' qualifiers
+k:\keyboard\code\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(53): warning C4101: 'c': unreferenced local variable
+k:\keyboard\code\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(167): warning C4013: '_kbhit' undefined; assuming extern returning int
+k:\keyboard\code\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(168): warning C4013: '_getch' undefined; assuming extern returning int
+  HIDConsoleApplication.vcxproj -> K:\keyboard\code\HIDConsoleApplication\Debug\HIDConsoleApplication.exe

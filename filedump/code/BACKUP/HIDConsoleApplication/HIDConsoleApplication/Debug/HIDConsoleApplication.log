@@ -1,0 +1,11 @@
+﻿  HIDConsoleApplication.c
+c:\users\lucas\documents\visual studio 2015\projects\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(26): warning C4566: character represented by universal-character-name '\u0E07' cannot be represented in the current code page (1252)
+c:\users\lucas\documents\visual studio 2015\projects\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(26): warning C4566: character represented by universal-character-name '\u0CA0' cannot be represented in the current code page (1252)
+c:\users\lucas\documents\visual studio 2015\projects\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(35): warning C4129: '_': unrecognized character escape sequence
+c:\users\lucas\documents\visual studio 2015\projects\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(38): warning C4129: ' ': unrecognized character escape sequence
+c:\users\lucas\documents\visual studio 2015\projects\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(25): warning C4133: 'initializing': incompatible types - from 'char [8]' to 'const wchar_t *'
+c:\users\lucas\documents\visual studio 2015\projects\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(88): warning C4090: 'function': different 'const' qualifiers
+c:\users\lucas\documents\visual studio 2015\projects\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(53): warning C4101: 'c': unreferenced local variable
+c:\users\lucas\documents\visual studio 2015\projects\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(188): warning C4013: '_kbhit' undefined; assuming extern returning int
+c:\users\lucas\documents\visual studio 2015\projects\hidconsoleapplication\hidconsoleapplication\hidconsoleapplication.c(189): warning C4013: '_getch' undefined; assuming extern returning int
+  HIDConsoleApplication.vcxproj -> C:\Users\lucas\documents\visual studio 2015\Projects\HIDConsoleApplication\Debug\HIDConsoleApplication.exe
