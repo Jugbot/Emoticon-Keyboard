@@ -1,5 +1,7 @@
 # Emoticon Keyboard
 
+![Main Image](/images/front.png)
+
 Most of my projects start with an impulse of some kind. Two years ago I decided I liked emoticons so much that I was going to make a keyboard just for emoticons. Although I could just have used another keyboard with a bunch of macros I was feeling ambitious and wanted to build it all by hand from the ground up. This is my first real introduction to hardware of any kind, and my first finished project.
 
 ### My process went (roughly) like this:
