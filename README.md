@@ -20,5 +20,5 @@ Most of my projects start with an impulse of some kind. Two years ago I decided 
 + http://builder.swillkb.com/
 
 ### Additional Pictures:
-<img src="images/keyboard-layout.jpg" width="45%"></img> <img src="images/wiring.jpg" width="45%"></img> <img src="images/key-tops.jpg" width="45%"></img> <img src="images/finished.jpg" width="45%"></img> 
+<img src="images/keyboard-layout.jpg" width="23%"></img> <img src="images/wiring.jpg" width="23%"></img> <img src="images/key-tops.jpg" width="23%"></img> <img src="images/finished.jpg" width="23%"></img> 
  
