@@ -18,9 +18,9 @@ Pressing a button on the keyboard causes the client program to load the correspo
 + Sigh of relief as this 3 year project is finally over. (º﹃º ) ᕕ( ᐛ )ᕗ
 
 ### Some helpful tools I used:
-+ http://www.keyboard-layout-editor.com/#/gists/4f1dd0537481beda3158
-+ http://builder.swillkb.com/
++ [Custom key layout editor](http://www.keyboard-layout-editor.com/#/gists/4f1dd0537481beda3158)
++ [Backplate creator (uses layout data)](http://builder.swillkb.com/)
 
 ### Additional Pictures:
-</img> <img src="images/wiring.jpg" width="32%"></img> <img src="images/key-tops.jpg" width="32%"></img> <img src="images/finished.jpg" width="32%"></img> 
+<img src="images/wiring.jpg" width="32%"></img> <img src="images/key-tops.jpg" width="32%"></img> <img src="images/finished.jpg" width="32%"></img> 
  
