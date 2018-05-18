@@ -12,4 +12,5 @@ My process went (roughly) like this:
 + At NYU after a semester of trial and error I found the right dimensions for a key connector that could be resin printed.
 + Sigh of relief as this 3 year project is finally over.
 
-
+<img src="images/keyboard-layout.jpg" width="45%"></img> <img src="images/wiring.jpg" width="45%"></img> <img src="images/key-tops.jpg" width="45%"></img> <img src="images/finished.jpg" width="45%"></img> 
+ 
