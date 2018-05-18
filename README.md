@@ -19,6 +19,6 @@ Most of my projects start with an impulse of some kind. Two years ago I decided 
 + http://www.keyboard-layout-editor.com/#/gists/4f1dd0537481beda3158
 + http://builder.swillkb.com/
 
-
+### Additional Pictures:
 <img src="images/keyboard-layout.jpg" width="45%"></img> <img src="images/wiring.jpg" width="45%"></img> <img src="images/key-tops.jpg" width="45%"></img> <img src="images/finished.jpg" width="45%"></img> 
  
