@@ -24,5 +24,5 @@ Pressing a button on the keyboard causes the client program to load the correspo
 ### Additional Pictures:
 <img src="images/wiring.jpg" width="32%"></img> <img src="images/key-tops.jpg" width="32%"></img> <img src="images/finished.jpg" width="32%"></img> 
  
-### Other
-[Reddit post](https://www.reddit.com/r/MechanicalKeyboards/comments/8l0nvm/kind_of_silly_but_here_is_an_emoticon_keyboard_i/)
+### Other:
++ [Reddit post](https://www.reddit.com/r/MechanicalKeyboards/comments/8l0nvm/kind_of_silly_but_here_is_an_emoticon_keyboard_i/)
